@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/FreeTime_Game/A_GameScene/Test_Asset.unity
     guid: fbf5ff12d33a18b48a85f36c51e338b7
+  - enabled: 1
+    path: Assets/FreeTime_Game/A_GameScene/Test_Asset_VFX/Test_Asset_VFX.unity
+    guid: d0201f136e453e241ab99afbc5e54503
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ea7ffa051c087894fa5a811d0670f445, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 800acb557a12af948aab42ab4ea68d8f, type: 2}
