@@ -7,12 +7,12 @@
     <list default="true" id="f05967c8-801e-4543-80b3-7b8bb5c3cbe2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR_KUB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR_KUB/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset_VFX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset_VFX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset_VFX/Global Volume Profile.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset_VFX/Global Volume Profile.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset_VFX/Test_Asset_VFX.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset_VFX/Test_Asset_VFX.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset_VFX/Test_Asset_VFX.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset_VFX/Test_Asset_VFX.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.6.4/Hands Interaction Demo/HandsDemoSceneAssets/Prefabs/Arrow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.6.4/Hands Interaction Demo/HandsDemoSceneAssets/Prefabs/Arrow.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/Gunpowder/textures/cap_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/Gunpowder/textures/cap_diffuse.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemUIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemUIController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/TeXt/Canvas 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/TeXt/Canvas 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uxml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uxml.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.11/Runtime/UniversalAdditionalCameraData.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -110,6 +111,7 @@
       <workItem from="1758103021835" duration="608000" />
       <workItem from="1758266753696" duration="47000" />
       <workItem from="1758707871415" duration="1119000" />
+      <workItem from="1758768107508" duration="2087000" />
     </task>
     <servers />
   </component>

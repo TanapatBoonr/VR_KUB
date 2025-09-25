@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1544122106975359118}
   - component: {fileID: 7234807833178409044}
   m_Layer: 5
-  m_Name: DG_1
+  m_Name: Gunpowder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Fireworks
+  m_text: Gunpowder
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -146,8 +146,9 @@ GameObject:
   - component: {fileID: 3496177501669922416}
   - component: {fileID: 4879060457590681491}
   - component: {fileID: 6024864434217197149}
+  - component: {fileID: 785496240543261700}
   m_Layer: 5
-  m_Name: Canvas 1
+  m_Name: Gunpowder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -170,7 +171,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 191.68639, y: 1.322}
+  m_AnchoredPosition: {x: 191.6864, y: 1.3220215}
   m_SizeDelta: {x: 1, y: 0.25}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &3496177501669922416
@@ -236,6 +237,20 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &785496240543261700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3706334313476715505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37e3a23072ed5774a89ebe60a3757da3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemNameText: {fileID: 7234807833178409044}
+  itemDescriptionText: {fileID: 0}
 --- !u!1 &5297048605530898288
 GameObject:
   m_ObjectHideFlags: 0
