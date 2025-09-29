@@ -7,12 +7,14 @@
     <list default="true" id="f05967c8-801e-4543-80b3-7b8bb5c3cbe2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR_KUB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR_KUB/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/Gunpowder/textures/cap_diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/Gunpowder/textures/cap_diffuse.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemUIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemUIController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/TeXt/Canvas 1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/TeXt/Canvas 1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uxml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Welcome Screen/CFXR_WelcomeScreen.uxml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_albedo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_albedo.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_albedo.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_albedo.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_albedo.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_albedo.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_metallic.jpeg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_metallic.jpeg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/MapAS/AssetGame/AssetPlay_Material/medical-bag_Animetion_Open/bag_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +113,8 @@
       <workItem from="1758103021835" duration="608000" />
       <workItem from="1758266753696" duration="47000" />
       <workItem from="1758707871415" duration="1119000" />
-      <workItem from="1758768107508" duration="2087000" />
+      <workItem from="1758768107508" duration="2719000" />
+      <workItem from="1759129745343" duration="3271000" />
     </task>
     <servers />
   </component>
