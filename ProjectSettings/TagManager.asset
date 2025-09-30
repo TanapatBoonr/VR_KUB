@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - TeleportPoint
+  - Kit
   layers:
   - Default
   - TransparentFX
@@ -36,7 +37,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Kit
   - 
   m_SortingLayers:
   - name: Default

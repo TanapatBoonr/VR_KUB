@@ -1,38 +1,44 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 public class BagController : MonoBehaviour
 {
     public GameObject topBagpack;
     public GameObject socketsParent;
 
-    // ตัวแปรส่วนตัวสำหรับอ้างอิงถึงปุ่มที่ถูกสร้างโดย UIBagTrigger
-    private Button openButton;
-    private Button closeButton;
-
-    // ฟังก์ชันสำหรับเปิดกระเป๋า
     public void OpenBag()
     {
         topBagpack.SetActive(false);
-        if (socketsParent != null)
-        {
-            socketsParent.SetActive(true);
-        }
+        socketsParent.SetActive(true);
+
         // ซ่อนปุ่ม Open และแสดงปุ่ม Close
-        if (openButton != null) openButton.gameObject.SetActive(false);
-        if (closeButton != null) closeButton.gameObject.SetActive(true);
+        GameObject openBtn = GetButtonFromChildren("OpenButton(Clone)");
+        GameObject closeBtn = GetButtonFromChildren("CloseButton(Clone)");
+
+        if (openBtn != null) openBtn.SetActive(false);
+        if (closeBtn != null) closeBtn.SetActive(true);
     }
 
-    // ฟังก์ชันสำหรับปิดกระเป๋า
     public void CloseBag()
     {
         topBagpack.SetActive(true);
-        if (socketsParent != null)
-        {
-            socketsParent.SetActive(false);
-        }
+        socketsParent.SetActive(false);
+
         // ซ่อนปุ่ม Close และแสดงปุ่ม Open
-        if (openButton != null) openButton.gameObject.SetActive(false); // ซ่อนปุ่ม Open เพื่อป้องกันการแสดงผล
-        if (closeButton != null) closeButton.gameObject.SetActive(false); // ซ่อนปุ่ม Close
+        GameObject openBtn = GetButtonFromChildren("OpenButton(Clone)");
+        GameObject closeBtn = GetButtonFromChildren("CloseButton(Clone)");
+
+        if (openBtn != null) openBtn.SetActive(true);
+        if (closeBtn != null) closeBtn.SetActive(false);
+    }
+
+    // ฟังก์ชันช่วยสำหรับค้นหาปุ่มลูก
+    private GameObject GetButtonFromChildren(string name)
+    {
+        Transform child = transform.Find(name);
+        if (child != null)
+        {
+            return child.gameObject;
+        }
+        return null;
     }
 }

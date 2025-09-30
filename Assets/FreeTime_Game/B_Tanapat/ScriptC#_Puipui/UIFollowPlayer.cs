@@ -6,13 +6,11 @@ public class UIFollowPlayer : MonoBehaviour
 
     void Start()
     {
-        // ค้นหากล้องหลักของโปรเจกต์
         mainCameraTransform = Camera.main.transform;
     }
 
     void Update()
     {
-        // ทำให้ UI หันหน้าเข้าหากล้อง
         if (mainCameraTransform != null)
         {
             Vector3 directionToCamera = mainCameraTransform.position - transform.position;
