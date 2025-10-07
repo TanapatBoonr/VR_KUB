@@ -3,10 +3,10 @@ using System.Collections.Generic;
 
 public class RandomSpawner : MonoBehaviour
 {
-    [Header("Prefab ��������")]
+    [Header("Prefab คนทั้งหมด")]
     public GameObject[] personPrefabs; 
 
-    [Header("���˹� Spawn Point ������")]
+    [Header("ตำแหน่ง Spawn Point ทั้งหมด")]
     public Transform[] spawnPoints; 
 
     private void Start()
@@ -18,7 +18,7 @@ public class RandomSpawner : MonoBehaviour
     {
         if (personPrefabs.Length < spawnPoints.Length)
         {
-            Debug.LogWarning("�ӹǹ Prefab �����¡��Ҩӹǹ�ش Spawn!");
+            Debug.LogWarning("จำนวน Prefab คนน้อยกว่าจำนวนจุด Spawn!");
             return;
         }
 
