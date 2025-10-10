@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05967c8-801e-4543-80b3-7b8bb5c3cbe2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR_KUB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR_KUB/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/A_GameScene/Test_Asset.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Arthit/RandomSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Arthit/RandomSpawner.cs" afterDir="false" />
-    </list>
+    <list default="true" id="f05967c8-801e-4543-80b3-7b8bb5c3cbe2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +108,7 @@
       <workItem from="1759219882616" duration="3010000" />
       <workItem from="1759735700470" duration="702000" />
       <workItem from="1759854047632" duration="2000" />
-      <workItem from="1759856533474" duration="1296000" />
+      <workItem from="1759856533474" duration="1555000" />
     </task>
     <servers />
   </component>
