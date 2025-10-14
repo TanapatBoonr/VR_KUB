@@ -6,6 +6,12 @@ TagManager:
   tags:
   - TeleportPoint
   - Kit
+  - FxTemporaire
+  - GreenTag
+  - Black
+  - Red
+  - Yellow
+  - Green
   layers:
   - Default
   - TransparentFX

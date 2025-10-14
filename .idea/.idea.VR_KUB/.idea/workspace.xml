@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f05967c8-801e-4543-80b3-7b8bb5c3cbe2" name="Changes" comment="" />
+    <list default="true" id="f05967c8-801e-4543-80b3-7b8bb5c3cbe2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR_KUB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR_KUB/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/HumanTyp/G/G2.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/HumanTyp/G/G2.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +22,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/ItemData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/NPC_Script/TriageTagHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FreeTime_Game/B_Tanapat/ScriptC#_Puipui/UIFollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.11/Runtime/UniversalAdditionalCameraData.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -109,6 +117,8 @@
       <workItem from="1759735700470" duration="702000" />
       <workItem from="1759854047632" duration="2000" />
       <workItem from="1759856533474" duration="1555000" />
+      <workItem from="1760431664129" duration="623000" />
+      <workItem from="1760434360035" duration="3115000" />
     </task>
     <servers />
   </component>
